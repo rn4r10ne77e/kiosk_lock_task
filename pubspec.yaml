@@ -1,6 +1,6 @@
 name: kiosk_lock_task
 description: Android Lock Task Mode kiosk controls for Flutter apps, including Device Owner kiosk support and boot launch handling.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/rn4r10ne77e/kiosk_lock_task
 topics:
   - android
