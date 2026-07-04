@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kiosk_lock_task_device_admin_label">Kiosk Lock Task Admin</string>
+    <string name="kiosk_lock_task_device_admin_description">Allows this app to enter Android lock task kiosk mode.</string>
+</resources>
